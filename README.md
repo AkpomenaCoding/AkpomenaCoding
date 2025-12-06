@@ -5,6 +5,7 @@ I am a third-year Computer Science student at Mount Royal University with a stro
 - Skills: C++, Java, C, Python, MongoDB, Assembly, and Power BI. Most proficient in Java
 - Others: React, JS, HTML, and CSS
 
-I'm currently learning
+I'm currently learning:
+![alt text][logo]
 
-[logo]: 
+[logo]: https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/france.png
