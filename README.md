@@ -6,11 +6,4 @@ I am a third-year Computer Science student at Mount Royal University with a stro
 - **Others:** React, JS, HTML, and CSS
 
 ### 🌍 Currently Learning:
-<img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/france.png" width="50"><br>
-  <sub>French</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/spain%20flag.png" width="50"><br>
-  <sub>Spanish</sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/japan.png" width="50"><br>
-  <sub>Japanese</sub>
+<img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/france.png" width="50"><br><sub>French</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/spain%20flag.png" width="50"><br><sub>Spanish</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/japan.png" width="50"><br><sub>Japanese</sub>
