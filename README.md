@@ -2,7 +2,7 @@
 
 I am a third-year Computer Science student at Mount Royal University with a strong passion for coding and problem-solving. I enjoy learning from others and exploring ideas across different fields. I’ve worked on a variety of projects, including games, small software applications, and websites. I am proficient in data structures and software design, and I am always eager to learn and build new things
 
-- **Skills:** C++, Java, C, Python, MongoDB, Assembly, and Power BI. Most proficient in Java
+- **Skills:** C++, Java, C, Python, MongoDB, Assembly, and Power BI. **Most proficient in Java**
 - **Others:** React, JS, HTML, and CSS
 
 ### 🌍 Currently Learning:
