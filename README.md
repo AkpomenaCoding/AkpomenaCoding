@@ -6,6 +6,4 @@ I am a third-year Computer Science student at Mount Royal University with a stro
 - **Others:** React, JS, HTML, and CSS
 
 ### I'm currently learning:
-![alt text][logo]
-
-[logo]: https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/france.png 
+<img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/france.png" width="40">
