@@ -7,3 +7,7 @@ I am a third-year Computer Science student at Mount Royal University with a stro
 
 ### 🌍 Currently Learning:
 <img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/france.png" width="40"> <img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/spain%20flag.png" width="40"> <img src="https://raw.githubusercontent.com/AkpomenaCoding/AkpomenaCoding/main/japan.png" width="40">
+
+### Projects
+
+<img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/calculator.png" width = "60">
