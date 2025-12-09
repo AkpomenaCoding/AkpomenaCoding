@@ -10,4 +10,11 @@ I am a third-year Computer Science student at Mount Royal University with a stro
 
 ### Projects
 
-<img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/calculator.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/pingpong.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/snake%20game.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/tetris.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/tictactoe.png" width = "200">
+<div align="center">
+  
+| | | |
+|:---:|:---:|:---:|
+| [<img src="https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/calculator.png" width="180" alt="Calculator">](#) <br> **Calculator** | [<img src="https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/pingpong.png" width="180" alt="Ping Pong">](#) <br> **Ping Pong** | [<img src="https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/snake%20game.png" width="180" alt="Snake Game">](#) <br> **Snake Game** |
+| [<img src="https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/tetris.png" width="180" alt="Tetris">](#) <br> **Tetris** | [<img src="https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/tictactoe.png" width="180" alt="Tic Tac Toe">](#) <br> **Tic Tac Toe** | |
+
+</div>
