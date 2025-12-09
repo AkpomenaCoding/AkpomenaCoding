@@ -10,4 +10,4 @@ I am a third-year Computer Science student at Mount Royal University with a stro
 
 ### Projects
 
-<img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/calculator.png" width = "200">
+<img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/calculator.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/pingpong.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/snake%20game.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/tetris.png" width = "200"> <img src = "https://github.com/AkpomenaCoding/AkpomenaCoding/blob/main/tictactoe.png" width = "200">
